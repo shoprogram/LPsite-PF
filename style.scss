@@ -1,4 +1,10 @@
 $dBlack: black;
+$dWhite: white;
 body {
- background-color: $dBlack;
+//  background-color: $dBlack;
+}
+.swiper-container {
+  width: 100%;
+  height: 300px;
+  background-color: $dWhite;
 }
